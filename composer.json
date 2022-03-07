@@ -1,0 +1,17 @@
+{
+     
+    "description": "Testing task",
+    "authors": [
+        {
+            "name": "Aziz Sultanov",
+            "email": "aziz89131983189@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "app\\" : "app",
+            "testing\\" : "vendor/testing/core"
+        }
+    },
+    "require": {}
+}
