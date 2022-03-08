@@ -6,6 +6,7 @@ define("APP",ROOT.'/app');
 define('CONF', ROOT.'/config');
 define('CORE',ROOT.'/vendor/testing/core');
 define('LIB',CORE.'/lib');
+define('LAYOUT','default');
 
 
 $app_path = "http://{$_SERVER['HTTP_HOST']}{$_SERVER['PHP_SELF']}";

@@ -36,3 +36,19 @@
 =================
 [2022-03-08 15:05:33] Текст ошибки: Контроллер app\controllers\HomeController не найден | Файл: C:\OpenServer\domains\testing\vendor\testing\core\Router.php | Строка: 36
 =================
+[2022-03-08 15:35:10] Текст ошибки: Class 'testing\base\View' not found | Файл: C:\OpenServer\domains\testing\vendor\testing\core\base\Controller.php | Строка: 29
+=================
+[2022-03-08 15:36:08] Текст ошибки: На найден шаблон  | Файл: C:\OpenServer\domains\testing\vendor\testing\core\base\View.php | Строка: 50
+=================
+[2022-03-08 15:36:52] Текст ошибки: На найден шаблон  | Файл: C:\OpenServer\domains\testing\vendor\testing\core\base\View.php | Строка: 50
+=================
+[2022-03-08 15:36:58] Текст ошибки: На найден шаблон  | Файл: C:\OpenServer\domains\testing\vendor\testing\core\base\View.php | Строка: 50
+=================
+[2022-03-08 15:37:00] Текст ошибки: На найден шаблон  | Файл: C:\OpenServer\domains\testing\vendor\testing\core\base\View.php | Строка: 50
+=================
+[2022-03-08 15:37:01] Текст ошибки: На найден шаблон  | Файл: C:\OpenServer\domains\testing\vendor\testing\core\base\View.php | Строка: 50
+=================
+[2022-03-08 15:38:25] Текст ошибки: На найден шаблон default | Файл: C:\OpenServer\domains\testing\vendor\testing\core\base\View.php | Строка: 50
+=================
+[2022-03-08 15:38:27] Текст ошибки: На найден шаблон default | Файл: C:\OpenServer\domains\testing\vendor\testing\core\base\View.php | Строка: 50
+=================

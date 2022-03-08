@@ -3,15 +3,15 @@
 
 namespace app\controllers;
 
-class HomeController
+class HomeController extends AppController
 {
     public function __construct($route)
     {
-        
+        parent::__construct($route);
     }
 
     public function indexAction()
     {
-        echo 'OK';
+       $this->setMeta("Гланая страница",'Просто','Ключевые слова');
     }
 }
