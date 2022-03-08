@@ -26,3 +26,13 @@
 =================
 [2022-03-07 21:37:24] Текст ошибки: Страница не была найдена | Файл: C:\OpenServer\domains\testing\vendor\testing\core\Router.php | Строка: 36
 =================
+[2022-03-07 21:42:54] Текст ошибки: Файл не был найден | Файл: C:\OpenServer\domains\testing\vendor\testing\core\Router.php | Строка: 35
+=================
+[2022-03-07 21:56:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\testing\vendor\testing\core\Router.php | Строка: 39
+=================
+[2022-03-08 15:04:48] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\testing\vendor\testing\core\Router.php | Строка: 39
+=================
+[2022-03-08 15:05:16] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OpenServer\domains\testing\vendor\testing\core\Router.php | Строка: 36
+=================
+[2022-03-08 15:05:33] Текст ошибки: Контроллер app\controllers\HomeController не найден | Файл: C:\OpenServer\domains\testing\vendor\testing\core\Router.php | Строка: 36
+=================
