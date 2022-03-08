@@ -13,5 +13,7 @@
             "testing\\" : "vendor/testing/core"
         }
     },
-    "require": {}
+    "require": {
+        "gabordemooij/redbean": "dev-master"
+    }
 }

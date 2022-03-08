@@ -52,3 +52,13 @@
 =================
 [2022-03-08 15:38:27] Текст ошибки: На найден шаблон default | Файл: C:\OpenServer\domains\testing\vendor\testing\core\base\View.php | Строка: 50
 =================
+[2022-03-08 15:41:35] Текст ошибки: Контроллер app\controllers\OolController не найден | Файл: C:\OpenServer\domains\testing\vendor\testing\core\Router.php | Строка: 44
+=================
+[2022-03-08 15:46:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\testing\vendor\testing\core\Router.php | Строка: 49
+=================
+[2022-03-08 16:11:53] Текст ошибки: syntax error, unexpected '}', expecting ';' or ',' | Файл: C:\OpenServer\domains\testing\app\models\AppModel.php | Строка: 14
+=================
+[2022-03-08 16:13:17] Текст ошибки: syntax error, unexpected '}' | Файл: C:\OpenServer\domains\testing\vendor\testing\core\Db.php | Строка: 21
+=================
+[2022-03-08 16:14:37] Текст ошибки: Нет соединения с БД | Файл: C:\OpenServer\domains\testing\vendor\testing\core\Db.php | Строка: 18
+=================
